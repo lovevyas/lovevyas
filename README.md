@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Devops Engineer <br>🌱 Built multiple projects and have taken part in multiple hackathones.<br>⚡ I'm interested in Cloud Computing, AI/ML and Web-development.<br>👨‍💻 Open for new project and idea implementation
+<h3>🔭 I’m a Devops Engineer <br>⚡ Passionate about building in Cloud, AI and Web Dev.<br>👨‍💻 Open to new project, ideas and collaborations</h3>
 
 
 ## 🌐 Socials:
