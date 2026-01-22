@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>🔭 I’m a Devops Engineer <br>⚡ Passionate about building in Cloud, AI and Web Dev.<br>👨‍💻 Open to new project, ideas and collaborations</h3>
+<h3>🔭 I’m a Devops Engineer. <br>⚡ Passionate about building in Cloud, AI and Web Dev.<br>👨‍💻 Open to new project, ideas and collaborations.</h3>
 
 
 ## 🌐 Socials:
