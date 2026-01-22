@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a CS Student & Full-stack coder<br>🌱 I’m currently learning Software Development and Full-stack<br>⚡ I'm interested in Web-development, AR/VR, AI/ML & Software Development
+🔭 I’m a Devops Engineer <br>🌱 Built multiple projects and took part in multiple hackathons.<br>⚡ I'm interested in Cloud Computing, AI/ML and Web-development.
 
 
 ## 🌐 Socials:
